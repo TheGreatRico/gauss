@@ -1,2 +1,1 @@
-# gauss
-Gauss method in c++
+# Gaussian elimination wrote purely in C++
